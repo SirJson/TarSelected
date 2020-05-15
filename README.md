@@ -14,7 +14,7 @@ Select the files you want to add to your tarball and execute the "Tar selected" 
 
 In the filename prompt you can choose to:
     
-    * Use no file compression by just enter a name
-    * Use gzip file compression by extending your name with .tar.gz
-    * Use bzip2 file compression by extending your name with .tar.bz2
-    * Use lzma file compression by extending your name with .tar.xz
+- Use no file compression by just enter a name
+- Use gzip file compression by extending your name with .tar.gz
+- Use bzip2 file compression by extending your name with .tar.bz2
+- Use lzma file compression by extending your name with .tar.xz
